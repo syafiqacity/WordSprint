@@ -116,15 +116,15 @@ Improved mobile experience
 
 ### Main Interface
 
-![WordSprint Main Interface](assets/IMG_2810.jpeg)
+![WordSprint Main Interface](assets/screenshots/main_interface.jpeg)
 
 ## second page
 
-![WordSprint Gameplay](assets/IMG_2812.jpeg)
+![WordSprint Gameplay](assets/screenshots/second_page.jpeg)
 
 ### Gameplay
 
-![WordSprint Gameplay](assets/IMG_2811.jpeg)
+![WordSprint Gameplay](assets/screenshots/gameplay.jpeg)
 
 
 ## Disclaimer
