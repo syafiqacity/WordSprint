@@ -5,6 +5,12 @@ WordSprint is a fast-paced browser-based word game inspired by category-and-lett
 The project was developed using Google Apps Script, HTML, CSS, and JavaScript, with Claude AI used as a coding and debugging assistant throughout development.
 
 
+## 🎮 Try WordSprint
+
+🌐 **Web App:** [Play WordSprint](https://script.google.com/macros/s/AKfycbzsXPe091cI3IkV9XG8SQWhxCLLG7izeMJA7nwWd9gcPvyiI9hIq8QogXPmhwt2iCIs/exec)
+
+The web version is available for anyone to try directly in a browser.
+
 ## How It Works
 
 A category is presented to the player.
